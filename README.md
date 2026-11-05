@@ -1,4 +1,4 @@
-# Technofly rebuild: live object detection (YOLOv8)
+# Live object detection (YOLOv8)
 
 **This is a November 2026 rebuild** of work I did as a remote Machine Learning Trainee at Technofly (May–Jul 2025). The original code isn't available, so I'm rewriting the same approach from scratch. Nothing here is Technofly's code, and none of its results are Technofly's numbers.
 
