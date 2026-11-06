@@ -20,7 +20,7 @@ while True:                     # (1) loop forever; we break out ourselves
         cv2.putText(frame, f"{label} {conf:0.4f}", (x1, y1 - 8),   # (4) 4 decimals
                     cv2.FONT_HERSHEY_SIMPLEX, 0.6, (0, 255, 0), 2)
 
-    cv2.imshow("Technofly rebuild", frame)
+    cv2.imshow("LOD", frame)
     if cv2.waitKey(1) & 0xFF == ord("q"):        # press q to quit
         break
 
